@@ -427,6 +427,7 @@ GameObject:
   - component: {fileID: 961121464}
   - component: {fileID: 961121466}
   - component: {fileID: 961121465}
+  - component: {fileID: 961121467}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -473,7 +474,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u30C6\u30AD\u30B9\u30C8\u3066\u3059\u3068\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042asdlkasdfjsa\uFF20\uFF01\uFF03\uFF20\uFF01"
+  m_text: ......
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d3b76300f4e1841acbda81baf628e4a0, type: 2}
   m_sharedMaterial: {fileID: 5432810110013485833, guid: d3b76300f4e1841acbda81baf628e4a0, type: 2}
@@ -552,6 +553,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961121463}
   m_CullTransparentMesh: 1
+--- !u!114 &961121467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 961121463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7716e41ea63c24fc4b2fc12658e5971c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogues: []
+  dialogueText: {fileID: 961121465}
+  typingSpeed: 0.05
 --- !u!1 &1359536943
 GameObject:
   m_ObjectHideFlags: 0
@@ -809,6 +825,54 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1777938811}
   m_CullTransparentMesh: 1
+--- !u!1 &1936415131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1936415133}
+  - component: {fileID: 1936415132}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1936415132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936415131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cdcebb9b205340ba8836f18ef8f88f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jsonFile: {fileID: 4900000, guid: 6ca04ff1a0f0d4f50b8c6de3aa3a4381, type: 3}
+  nameText: {fileID: 961121465}
+  dialogueText: {fileID: 961121465}
+  typingSpeed: 0.05
+--- !u!4 &1936415133
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936415131}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -817,3 +881,4 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 1359536946}
   - {fileID: 1475836604}
+  - {fileID: 1936415133}

@@ -1,0 +1,1722 @@
+{
+  "scenes": [
+    {
+      "id": 1,
+      "name": "ナカトミ家・客間",
+      "events": [
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "......タ...ヅ......さま\n...タ......ナ...さま\n.....タヅ.....ナさま"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ん...んぅ......\n......うぅん？"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "明転"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "......"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "寝ておったのか？\nはい　とても安らかに\n眠っておいででした"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ふむぅ\n何とも口惜しい\n夢見心地であった"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あらあらまあまあ\nいくらでも、おくつろぎくださいね"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "モノローグ"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "の目の前にいる"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "奥ゆかしい少女\n名はユイメ\nここナカトミ家の次女で、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ユイショ正しい巫女のまつえいである\nとはいっても、\n出会って間もないこともあり、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "まだまだ彼女については、\n知らないところが多い\nしかし、どことなく"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "不思議なご縁を感じる子だ"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "ったら"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "、嬉しゅうございます"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ところでユイメ殿\nその、\n一つお尋ねしたいのだが"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "はい、なんなりと\nさっきから申しておる"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "という名は\nのことか？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "どうにも、いまいち\n馴染んでこないのだが...\n......"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "お労しゅうございます\n→ちょっと泣き目\n目覚めたばかりで、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いまだ混乱されているご様子...\nせっかくですので、ここでいったん\n記憶を整理してみましょうか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "お主、ワシのことを\n存じておるのか？\nはい、いくらか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "初めてお会いしたときは、まだ鮮明に\nご自身のことを語っておられましたから\nなので..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "わたくしがお聞きした範囲で良ければ、\nお答えさせていただきますね\nうむ、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "かたじけない"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "選択肢"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "改めて問いたい\nワシの名はなんという？\n"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "本当にそう申しておったのか？\nはい、間違いなく\nそれと..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "我はこの世のエニシをすべからく\n手元に繋ぐいつくしみの神である\nこうもおっしゃってましたね"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いかにも神らしい振る舞いじゃ"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "何者",
+          "text": "神といったからには、\n役目があるんじゃろ？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "もちろん、先ほど申したとおり、\n縁結びにございます\nエニシを繋ぐ、ということは"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "人と人のかけ橋を担うんじゃの\nわたくしはそこで確信いたしました\n目の前にいるお方は恐らく、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "本物であらせられると\nナカトミ家は古くより、ご縁を司る\n神様をまつってまいりました"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "神話の時代、ある二柱の大喧嘩をしずめ、\n以後、お姿を現すことはなかったという\nたったひとつの伝承を残して、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "歴史の影に隠れたアマツカミ\nその名も......"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "......ふむ"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ここは？",
+          "text": "当たり前のように\n居ついてしまっているが..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "結局、ここはどこなのだ？\nサキエダ村ナカトミ家、\n邸宅の客間、でございます"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "それにしても、\n立派なお屋敷であるな\n世話になったイキサツを"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "教えてほしいのだが\n...あれは、寒空が肌に染みる\n夜が深まったころでした"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "わたくしが　いつものように\n屋敷の見回りをしていると、\n本殿にさしかかったあたりで、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "が倒れていたのです"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "最初は驚きましたが、なにしろ\nお身体がボロボロでしたので...\n放ってはおけず、少数の使用人と"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ともに看病いたしました\nそして今に至るわけか...\nどうやら、想像以上に苦労を"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "かけたみたいじゃな\nいえいえ、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "のことですから"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "それと..."
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "とあるものを差し出すユイメ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "これは？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "は"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "結記、とおっしゃってました\n薄れゆく意識の中で、\nわたくしに託したモノです"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "結記",
+          "text": "ワシがユイメ殿にそれを？\n...やけに古びておるな"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "は、往生際を"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "悟られたみたいですが...\nその必要はなくなったので、\nこれはお返しいたしますね"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "逆転裁判でいうところの、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "法定記録の役割\n何じゃ、白紙ではないか\nいえ、タヅナさま"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ここをご覧ください\nなっ！！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "わたくしも、よくは存じ上げません...\nですがどうやら..."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "へのご信心が、この結記に"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "反映されているものと思われます\nどうして分かるのだ？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "と関わった人は、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "現時点だと限られております\nそして、記録されているのは、\nわたくしの名前のみ"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "使用人",
+          "text": "はナカトミ家の"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "人間ではないのか\nええ、まあ、\n昔ほど大所帯ではありませんから"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(何かワケアリみたいじゃな)\n(...ん？待てよ...)"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "外部の人間たちは、ワシに対する\n信心がないということか？\n...え！？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そ、それは...\n(へ、の文字を貼り付けたような\n顔をしておる)"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\n...\n申してみよ、ユイメ殿"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...タヅナさま"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "は神じゃ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あらゆる衆生(しゅじょう)を\n受けとめるのが務め\n空をもまたぐ器に、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "委ねてみてはくれぬか？\n......\n......"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "分かりました\nおっしゃる通り、隠し通せるモノでは\nありませんから"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...あのですね"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "が、縁結びの神であることは、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "疑いようもない事実なのですが\nうむ\n絶大な影響力を誇っていたのは、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あくまでも、タヅナヒコさまなので...\nうむ\n...ん？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "は現在、この村において"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "神としての地位を得ていないんです\n...というと？\nナカトミ家を除く村の住民からは、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あまり歓迎されていない、ようですね\nん？\n...ん？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いわゆるヨソモノ、\nつまりは腫れ物ということに\n...ユイメ殿"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "後はそうですね、\n目の上のタンコブとかでしょうか"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "ッ！！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あ、はいっ！\nわたくしったら、つい..."
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(まったく...)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "とりあえず、こんなところですね\n何か、至らぬ点はございましたか？\n言いたいことはたくさんあるが、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "今は大丈夫じゃ\n恩に着るぞ"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "モノローグ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "一つ、ハッキリしたことがある"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "の名、素性、役目"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "それらは再確認できた、しかし...\nここに来るまでの記憶が、\nスッポリと抜けておる"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "これまでのワシは何者だったのか\nなぜ、この地でないといけなかったのか"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "の本当の目的とは"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そして、この結記とやら\nまっさらな紙面に刻まれた、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "なにがなにやら、\n分からないことだらけじゃ"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": ""
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "んぁ？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "には分かります..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "お腹を空かせては、\n身入りが悪うございましょう？\nおい、なんじゃ"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(服をひっぱるでない！)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "さあさあ、サキエダ村の名物を\n食べに参りましょう\nナカツガニとえんおむすびの"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "まんぷくご膳は絶品ですよっ！\n待て待て待て！待ちたもう！\n別に、腹が空いてなど..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そう遠慮なさらず\nぐぬぬぬぬぬっ"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "暗転"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "に腕をからめとられ、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "強引に連れて行かれてしまった\nあやつ、どこにあんな力が..."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "神社・境内",
+      "events": [
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "明転"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "美味しかったですね"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "確かに美味ではあった\n...うぷ\nみずみずしい食感と素材の甘さ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "極めつけは香ばしい味付け\nお米がはかどります\nほら、お土産もいただいちゃって"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(弁当をアイテムに記録)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "今となっては嬉しい悲鳴よの\nいかがですか？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "お腹を満たせば、お考えが\nまとまるかと思った次第ですが\nおかげさまで、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "今は横になりたい気分じゃ\nあらまあ、\nでは何か気になることとかは？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "急に言われてものぉ...\n...うぅん\nあたりがずいぶん賑やかであるが"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "これはいつものことなのか？\n縁日でございます"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "縁日？\n祭りとは違うのか\nええ、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "厳密には異なるみたいです\n神と人のつながりがより\n強くなる日のことをいうので"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "祭りという催しを指した\n言葉ではないんです\n縁日になると、多くの人たちが"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "お参りにいらっしゃることから\nさまざまな露店が境内に\n並ぶようになったとか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "なるほどのぉ\n詳しいんじゃな、ユイメ殿\n一応、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ナカトミ家の娘ですから\nまあですが、\n子供たちからしてみれば"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "美味しいモノが食べられる\nいつもよりちょっと幸せな日\nということに、変わりはありません"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "子供にバチを当てる\n神などおらんだろう\nそれに、バチならもう"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "間に合ってるようだしの\nええ、とても上手ですね\n......"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あの、おうかがいしても？\nなんじゃ？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "は、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ご存知ではなかったのですか？\n...いや\nただ感心しておっただけだ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そうですよね\n失礼いたしました"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(後でしっかり記しておこう)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "さて、用が済んだなら\nそろそろ参るぞ\n胃もたれがしてかなわん"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あっ！\n置いていかないでくださ...\nん？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "なんじゃなんじゃ\n急に立ち止まるとは\nこ、これは..."
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "大柄な鎧武者が木にもたれている"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "何とも物騒な香りが\nぷんぷんするのぉ\nそんなことおっしゃらずに！"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(し、視線が怖い)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...うぅむ、まずコヤツは\n神なのか？人なのか？\n見た目だけなら、武神のたぐいに"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "思えなくもないが\n瀕死でここまで\n流れ着いて来たのでしょうか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "でしたら、しっかり弔って\nさしあげなければ\nまてまて　ユイメ殿、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "触らぬ神になんとやらじゃ...\n無念のうちに倒れたとあれば、\nヘタに関わると悪縁を招くやもしれぬ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "......ナ...ヤツ\nそんな...！\nとても神様のお言葉とは"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "の力はまだ不完全じゃ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あまりコトを荒立てたくない\n.........ナニヤツ...\nでしたら、なおのことです！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "なにか手立ては..."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "、いちど日を改めよう"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "それからでも遅くは\nナニヤツじゃああああアアアアアッ！！\nぎょえええええええええ！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "きゃあああああああああ！\nうぐ......んぐぅ...おっ......\nガハッ！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "大丈夫ですか！？"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "お腹が鳴る音"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "悩みの種は腹の虫だった\nみたいじゃの...\nまったく、人騒がせなヤツ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いえ、一大事です！\nでもどういたしましょう...\n屋台はもう片付けを始めてますし"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "アイテムから弁当を渡す"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "お主、腹が減ってるのか\n武士は...腹など空かぬ..."
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "お腹が鳴る音"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "口ほどにモノを言う胃袋じゃ\nほれ、良ければこれを\nくれてやる、食え"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "......何のマネだ\nほどこしは...受けない\nおま！見かけによらず"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "繊細なヤツじゃのぉ！\nいいから食え！\nさあ！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "武士は、食わねど...たかようじ\nかぁーっ！\n意地でも食わせたくなってきた"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "お主っ！\n神の慈悲をこばむなど"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "なんじゃっ！！\n→食い気味に\n(ヒソヒソヒソ..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ヒソヒソヒソ...)\n...本当に大丈夫なのか？\nそれで......？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "柔よく剛を制す...です！\n......心得た\nよし"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(これをヤツの足もとに置いて、と)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "......\n......\nおや？ユイメ殿　先ほどもらった"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "土産はいずこじゃ\nまあ、わたくしはちゃんと\nお渡ししたはずですよ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そうだったかのぉ？\n袖から落ちてしもうたか\nあれは上納品としても名高い、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "万宝(ばんぽう)のチソウだというのに\n一度クチにすれば、神ですら\n病みつきになる代物だとか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いやはや悔しい限りじゃ...\nまあ、よいか\n後のことは、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "拾ったやつに任せるとしよう\nそやつが食うモノに困っている\nことを祈ろうではないか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "はい、なんといっても\nまんぷくご膳でございますから\nご満足いただけますよ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...きっと"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "暗転"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ナカトミ家・客間",
+      "events": [
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "明転"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ふぅーっ！　良いコトをした後は\nすがすがしいのぉ\nそうですね"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...まぁ、今だから申し上げますと\nなごり惜しくない、といえば\n嘘にはなります"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "どうしたユイメ殿、\nまさか後悔しておったのか？\nいえいえ、決してそのようなことは"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...ただ\nあのお味を...\n少々"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "それなりに\nとても\nお慕いしておりますから"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "さきほどの方便も、あながち\n間違いではないのやもしれぬ\nですから、また参りましょうね！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "約束ですよっ！\nうむ"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(正直、気は進まないがな...)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ゴンッゴンッゴンッ\nゴンッゴンッゴンッ\nむ？来客か？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "わたくし、行ってきますね\nやれやれ...\n忙しのない一日じゃ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "さ〜てと、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "は少し休息をとるとす..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ドタドタドタドタドタドタ\nドタドタドタドタドタドタ\nな、なんじゃ、この地ならしは"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ドタドタドタドタドタドタ\nドタドタドタドタドタドタ\nピシャッ！"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "勢いよく入る、小さい女の子"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\n...\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "......あっ！\nジャシンくん！！\nなっ..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "じ、邪神くん...？\nうん、ジャシンくん！\nみんなそう言ってるっ！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あっ...こ〜らっ\nいきなり失礼ですよ"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "、ワシに指をさす"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "容赦のない子供はナニヤツじゃ\nこの子は、カイナといいます\n両親が共働きで、小さい頃から"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "よく預かっていたのです\nご覧のとおり、元気いっぱいですから、\nおかげでわたくしも体力がつきました"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "(なるほど、ユイメ殿の\n力のみなもとはコヤツじゃったか)"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "カイナ",
+          "text": "といったな、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "は、縁結びの神タヅナであ..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ぷいっ\nなっ！！\nスケコマシの神様とは、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "おしゃべりしないもん\nス、スス、スケコマシとは無礼な！\n心当たりなどないわっ！"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(ちょっと赤面)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あらあら、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "、どうかお鎮まりを"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "少しばかり、その、お耳が豊かで\nございますゆえ...\nむぅ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "(...アヤツは意味が分かって\n言っておるのか？)"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "の印象は最悪のようじゃ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "とりあえず、なんとか話を聞いてみねば"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "選択肢"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "・結記からユイメの情報を\nつきつけると話が進む\nこれで誤解は解けたかの？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\n...\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\nいったん話は聞いてあげる"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "と仲がいいんだもの"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(よし、いっぽ前進じゃ)"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "選択肢"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ジャシンくん",
+          "text": "ワタシ知ってるよ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ジャシンくんは、\nお外からやってきたんでしょ？\nキンコウを乱す、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "悪い神様なんだって\nだから、ジャシンくんって\n言うんでしょ？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そういうことに...なるのかの？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いや、しかしのぉ、\n反論しようがないのは事実じゃ\nほら！やっぱりっ！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "噂というものは、\n風邪よりも早く広まりますね\nここは甘んじて受け入れよう"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...さて、カイナ殿\nこの村の神々について、\nおたずねしたいのだが..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ワタシ、\nそこまで詳しいわけじゃないよ\nもっと、他に聞くべき人がいると思う"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "なんとまあ、肩透かしな\nあっでも\nさっきちょっと小耳にはさんだの"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "先枝風土記\n(さきえだふどき)がどうとかって\n...ユイメ殿"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ええ、一応ですが\n存じ上げてはおります\nサキエダ村の文化や歴史が、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "細かく記された古い書物です\nでも、なぜそれが今？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "が知るわけなかろう"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "スケコマシ",
+          "text": "...\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "キィッ！"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(ものすごい敵意じゃ...)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "のう、カイナ殿\n...その\nスケコマシという表現を、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いささか改める気はないか？\nえ？　でも、実際そうじゃない？\n今だってあなた、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ぐうたらしようとしてたでしょ\nほっぺに、ご飯つぶまでつけて"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(い、痛いとこ突いてきよる)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そういうのを、ヒモ？　だとか\nゴクツブシっていうんだよね\nなにか、ミワザの一つでも"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "見せてくれたら納得するんだけど\n...ユ、ユイメ殿ぉ...\nよしよし...って、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "、お気を確かに\n、ワシ...これでも一応"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "神なんじゃぞぉ..."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "カイナ",
+          "text": "、このお方はとある事情で"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "力を失っておられるのです\nわたくしにめんじて、\nここはご勘弁ねがえますか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...まったく、ユイメ様はそうやって\n甘やかしちゃうんだから"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(呆れと嫉妬が混じったような感じ)"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメについて",
+          "text": "ユイメ殿とは、\n付き合いが長いのか？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あたりまえのこと聞かないでっ！"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(食い気味に)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いっしんどうたい、\nいちれんたくしょう\nひょうりいったい、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "なんだからっ！\nとても慕っておるのだな\n少なくとも、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ジャシンくんよりはね\nその辺はどうなのだ？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": ""
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "はい、\n最初はカイナも小さかったので\nわたくしがオモリの役目を"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "預かっておりました\nオシメを変えたことだってあるんですよ"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "っ！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そのお話はしない約束です\n一族の中で末っ子だったこともあり\nまるで妹ができたような気がして、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "毎日が楽しゅうございました\nやがて、わたくしもナカトミ家の\n雑事を任されるようになってからは"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "書斎でお留守をしていただくことも\n増えていきましたね\nなるほど"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "アヤツの言葉の引き出しは\nそこで培われたみたいだな\nワタシとユイメ様は、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ミツゲツの関係なのっ！\n悪い虫は、ワタシがじきじきに\nはたき落としてあげるわ"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(少々、偏りはあるみたいだがな...)"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "先枝風土記",
+          "text": "カイナ殿、風土記とやらについて、\n他に何か聞いてはおらぬか？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ううん、あんまり。\nただ、通りすぎただけだもん\nふむぅ、行き止まりというわけか"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "悪かったわね、役に立てなくて\nいつ、ワシがそこまで申した\n言わなくても書いてあるわよ、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "その、いじらしいお顔に\nええぇい！\nあーいえばこーいうヤツじゃ！！"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "いえ、カイネ、\nとてもお手柄だと存じます\nユ、ユイメ様？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...なにか知っておるのか？\nええ、まあ。\n先ほども触れましたが..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "風土記とは、最高神さまが各国の状況を\n知るために作らせる、いわば報告書。\nそれを元に、世を治めるための指針を"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "決めたりしているわけです"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "には、初めて申し上げますが"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "風土記の作成は、わたくしたち、\nナカトミ家が任されておりました\nえっ！？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そうだったの！\nなぜ、おぬしが驚くのだ\nここからが、本題です"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "風土記を献上したのは、\nもうかなり昔のことなので\nいまさら話題に上がることは"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ないと思っていました\nですが、わたくしが推察するに\n恐らく、タヅナさまと何か関わりが"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あるのではないかと"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "カイナ",
+          "text": "、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "その話はどこで耳にした？\nえ？　えーと、お屋敷に入る\nちょっと前の納屋、だったかな"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "物カゲで大人たちが、\n顔をしかめながら話してたの\nということは..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "少々、大ごとになってきてる\nみたいですね"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "\n使用人が入ってくる"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "さま、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "左権",
+          "text": "(さごん)様がお呼びです"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あっ、はい！\n...珍しいこともあるんですね"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "、いま申した"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "左権",
+          "text": "という名は？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そういえば、ご紹介がまだでした\nわたくしの叔父にあたるお方であり、\nナカトミ家の現当主でいらっしゃいます"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "のことも"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "存じ上げておいでですよ\nそうであったのか\nして、左権殿はなんと？"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ええ、もちろん！　こころよく\n歓迎していただけましたよ\nとはいっても、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "耳にしたのは人づてですが\nなにか、礼のヒトコトでも\n言ってやらねばならんな"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そのことですが...\n叔父様、ここのところはお身体の\n具合がよろしくないので、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "今はあまり人とお会いにならないんです\nそれはまことに残念であるな"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "の代わりによろしく伝えて"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "おいてくれるか\n承知いたしました"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "カイナ",
+          "text": "、くれぐれもお手柔らかにね"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...うん\nでは、また後ほど"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(お辞儀をして去っていく)"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "ユイメ、フェードアウト"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\n...\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\nこの間はなんじゃ！\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ワタシもそろそろ、おイトマする\nもう用は済んだから"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(ワシへの雑言のことか？)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "あっ、そういえば\nコレ、ユイメ様に渡しそびれちゃった\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "はい。\n...カイナ殿、\nなんだかんだワシのことを..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "勘違いしないで"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "があなたを信じてるから"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "一瞬だけ、\nワタシの信用をあずけるだけ\nジャシンくんは、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ジャシンくんのままよ\n分かった分かった"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(結記にアイテムを記録)"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "それじゃ、ユイメ様によろしく\n伝えておいてね"
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "カイナ、フェードアウト"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "やれやれ、嵐のように過ぎ去って\nいきおった\nそれにしても..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "数珠(じゅず)と勾玉(まがたま)か\nこれまたチンミョウな\nおきみやげじゃ"
+        },
+        {
+          "type": "thought",
+          "speaker": null,
+          "text": "(失われた記憶を結記に記録)"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "もしばらくは帰って"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "こないだろうし\n今度こそは、まくらを高くして\nトコにつけるぞ"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\n疲れたのう...\n..."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "にはああ言ったが、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "やはり、左権殿にはちょくせつ\n感謝の念を伝えたほうがよいだろう\n不自由ない衣食住を授かっている手前、"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "我がもの顔で過ごしたとあらば、\nご縁の名がすたる\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "...\n嫌な言葉を...思い出してしもうた\n...とにかく...明日..."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "ユイメ",
+          "text": "に、かけあって..."
+        },
+        {
+          "type": "direction",
+          "speaker": null,
+          "text": "暗転"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "意識が遠のいていくなか、\n懐かしいオモカゲを見た気がする\n..."
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "そして、"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "タヅナ",
+          "text": "の思いが果たされることは"
+        },
+        {
+          "type": "narration",
+          "speaker": null,
+          "text": "ついぞなかった"
+        }
+      ]
+    }
+  ]
+}
